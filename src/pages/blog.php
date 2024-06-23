@@ -17,16 +17,16 @@
         <header>
             <nav id="buttons">
                 <a href="../../index.html">About</a>
-                <a href="./experience.html" id="current_page">Experience</a>
+                <a href="./experience.html">Experience</a>
                 <a href="./projects.html">Projects</a>
                 <a href="./journey.html">Jounrey</a>
-                <a href="./blog.html">Blog</a>
+                <a href="./blog.html" id="current_page">Blog</a>
             </nav>
         </header>
 
         <section class="test1">
             <h1>
-                Actively looking<br>o_o
+                Need experience first<br>^_^
             </h1>
         </section>
 
